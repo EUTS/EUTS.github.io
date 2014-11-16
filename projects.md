@@ -3,9 +3,17 @@ layout: page
 title: Projects 
 permalink: /projects/
 ---
+####Project Demo
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Initial implementation of the project is hosted in this [link](https://github.com/HackN)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The page contains:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. [StarterKit](https://github.com/HackN/StarterKit):
+A starter kit for git and github. Contains links to resources explains git and github. The skills learned then can be implemented in this project.
+
+2. [Packet-sniffer](https://github.com/HackN/packet-sniffer):
+Sample project that can be further improved, which is an implementation of a packet analyzer
+
+3. [HackN.github.io](https://github.com/HackN/HackN.github.io):
+Page where the code for the website is hosted, thus giving opportunity to  others to add further improvements.
