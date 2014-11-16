@@ -6,8 +6,8 @@
 </description>
     <link>http://hackn.github.io/</link>
     <atom:link href="http://hackn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Nov 2014 20:45:20 +0300</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2014 20:45:20 +0300</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2014 20:50:50 +0300</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2014 20:50:50 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -34,6 +34,17 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Test Post</title>
+        <description>&lt;h1 id=&quot;test&quot;&gt;test&lt;/h1&gt;
+</description>
+        <pubDate>Sun, 16 Nov 2014 00:00:00 +0300</pubDate>
+        <link>http://hackn.github.io/2014/11/16/Test-post.html</link>
+        <guid isPermaLink="true">http://hackn.github.io/2014/11/16/Test-post.html</guid>
+        
         
       </item>
     
