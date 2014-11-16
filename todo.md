@@ -1,0 +1,3 @@
+- add fixed footer
+- add project description
+- fill out the content
