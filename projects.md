@@ -3,7 +3,7 @@ layout: page
 title: Projects 
 permalink: /projects/
 ---
-####Project Demo
+##Project Demo
 
 Initial implementation of the project is hosted in this [link](https://github.com/HackN)
 
