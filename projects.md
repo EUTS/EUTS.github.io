@@ -3,7 +3,8 @@ layout: page
 title: Projects 
 permalink: /projects/
 ---
-##Project Demo
+
+####Project Demo
 
 Initial implementation of the project is hosted in this [link](https://github.com/HackN)
 
@@ -17,3 +18,4 @@ Sample project that can be further improved, which is an implementation of a pac
 
 3. [HackN.github.io](https://github.com/HackN/HackN.github.io):
 Page where the code for the website is hosted, thus giving opportunity to  others to add further improvements.
+
