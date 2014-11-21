@@ -22,4 +22,4 @@
 2- add project description
 3- fill out the content
 4- Write guide to topics mentioned here        
-5- Create graphics for wbesite (icons, background etc)
+5- Create graphics for ze website (icons, background etc)
