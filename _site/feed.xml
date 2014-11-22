@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hackn</title>
+    <title>EUTS</title>
     <description>Website for our little community. 
 </description>
-    <link>http://hackn.github.io/</link>
-    <atom:link href="http://hackn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Nov 2014 18:26:47 +0300</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 18:26:47 +0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Nov 2014 12:39:42 +0300</pubDate>
+    <lastBuildDate>Sat, 22 Nov 2014 12:39:42 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Sun, 16 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://hackn.github.io/jekyll/update/2014/11/16/git.html</link>
-        <guid isPermaLink="true">http://hackn.github.io/jekyll/update/2014/11/16/git.html</guid>
+        <link>http://localhost:4000/jekyll/update/2014/11/16/git.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/11/16/git.html</guid>
         
         
         <category>jekyll</category>
@@ -42,8 +42,8 @@
         <description>&lt;h1 id=&quot;test&quot;&gt;test&lt;/h1&gt;
 </description>
         <pubDate>Sun, 16 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://hackn.github.io/jekyll/update/2014/11/16/Test-post.html</link>
-        <guid isPermaLink="true">http://hackn.github.io/jekyll/update/2014/11/16/Test-post.html</guid>
+        <link>http://localhost:4000/jekyll/update/2014/11/16/Test-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/11/16/Test-post.html</guid>
         
         
         <category>jekyll</category>
@@ -74,8 +74,8 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
 
 </description>
         <pubDate>Tue, 11 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://hackn.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hackn.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2014/11/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/11/11/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
