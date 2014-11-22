@@ -1,7 +1,31 @@
+<style>
+
+.class {
+	text-align: center;
+}
+
 ---
 layout: page
-title: About
+<h1> title: EUTS </h1>
 permalink: /about/
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing ``Lorem Ipsum passages``, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+
+</style>
+<h1 class="class"> Effat University Tech Society </h1>
+
+
+
+#Who are we? 
+
+We're a group of students who come togeather to brainstorm ideas, develop and share code, improve our skills and discuss anything related to programming.
+
+#What do we do?
+
+Hacking, Web development, Mobile Development, Game development ... You name it!
+
+#Who can join us? 
+
+If you've got a passion for programming or are just a newbie looking for a place to grow, you've come to the right place. 
+
+
