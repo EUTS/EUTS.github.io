@@ -1,7 +1,5 @@
 ---
 layout: page
-title: about us
-permalink: /about/
 ---
 #Effat University Tech Society  
 

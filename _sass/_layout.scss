@@ -11,18 +11,31 @@
 }
 
 .site-title {
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+
+.site-title a {
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
     &:visited {
         color: $grey-color-dark;
     }
 }
-
+.site-title small {
+	font-size: 75%;
+	font-weight: 100;
+	color: #969896;
+	position: relative;
+	letter-spacing: 0;
+	margin: 10px;
+	margin-bottom: 0;
+}
 .site-nav {
     float: right;
     line-height: 56px;
