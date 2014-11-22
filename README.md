@@ -39,5 +39,5 @@ Example: 2014-11-22-New-Blog-Post
 1- add fixed footer <br>
 2- add project description <br>
 3- fill out the content <br>
-4- Write guide to topics mentioned here <br>     
+4- Write guide to topics mentioned here   
 5- Create graphics for ze website (icons, background etc)<br>
