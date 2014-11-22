@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about us
+title: About Us
 permalink: /about/
 ---
 #Effat University Tech Society  
