@@ -1,12 +1,25 @@
-#How to get involved in developing the Website:
+This is where the EUTS website is hosted.
+
+If you're new here, read on to find out how you can contribute to the website. 
+
+#How to get involved on developing the Website:
+
 1- Fork to your repository
-2- Clone to your disctop
+2- Clone to your desktop
 3- Make your changes
-* Read about webdeveopment here
-* Read about github pages here
-* Read about Jekyll here
-* Read about bootstrap here
-4- Pull request
+
+```
+Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting started with website developmeing using Github pages, Jekyll, and Bootstrap. 
+```
+
+4- Send a pull request
+
+How you can help?
+- Find spelling mistakes or faulty links
+- Answer frequently asked questions
+- Drop us a line on suggestions
+
+
 
 #How to post:
 1- go to _postt folder
