@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-<h1 class="class"> Effat University Tech Society </h1>
+<h1> Effat University Tech Society </h1>
 
 
 
