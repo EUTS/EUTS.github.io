@@ -12,7 +12,7 @@ Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting start
 
 4- Send a pull request
 
-How you can help?
+How can you help?
 - Find spelling mistakes or faulty links
 - Answer frequently asked questions
 - Write out blog posts to help others with a problem 
