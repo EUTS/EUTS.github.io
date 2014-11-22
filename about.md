@@ -6,7 +6,7 @@
 
 ---
 layout: page
-<h1> title: EUTS </h1>
+title: About
 permalink: /about/
 ---
 
