@@ -15,16 +15,15 @@ Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting start
 How you can help?
 - Find spelling mistakes or faulty links
 - Answer frequently asked questions
-- Drop us a line on suggestions
-
-
+- Write out blog posts to help others with a problem 
+- Drop us a line on suggestions 
 
 #How to post:
 1- Go to the _post folder <br>
 2- Create a new post <br>
 3- Read up on [YAML](https://en.wikipedia.org/wiki/YAML) <br>
 4- Read up on [Markdown](http://en.wikipedia.org/wiki/Markdown) <br>
-5- Look at the source code of previous posts
+5- Look at the source code of previous posts <br>
 6- Write out your content <br>
 7- Name your post following this format: year-month-day-name-of-website <br>
 ```
@@ -32,11 +31,13 @@ Example: 2014-11-22-New-Blog-Post
 ```
 8- Click on commmit changes to save post <br>
 
+
+
 #Study of the file tree
 
 #TO DO:
-1- add fixed footer
-2- add project description
-3- fill out the content
-4- Write guide to topics mentioned here        
-5- Create graphics for ze website (icons, background etc)
+1- add fixed footer <br>
+2- add project description <br>
+3- fill out the content <br>
+4- Write guide to topics mentioned here <br>     
+5- Create graphics for ze website (icons, background etc)<br>
