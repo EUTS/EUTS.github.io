@@ -4,13 +4,11 @@ If you're new here, read on to find out how you can contribute to the website.
 
 #How to get involved on developing the Website:
 
-1- Fork to your repository
-2- Clone to your desktop
-3- Make your changes
+1- Fork to your repository <br>
+2- Clone to your desktop <br>
+3- Make your changes <br>
 
-```
-Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting started with website developmeing using Github pages, Jekyll, and Bootstrap. 
-```
+Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting started with website developmeing using Github pages, Jekyll, and Bootstrap. <br>
 
 4- Send a pull request
 
