@@ -20,11 +20,23 @@ How you can help?
 
 
 #How to post:
-1- go to _postt folder
-2- create text file 
-* Write your post
-* read about markdown
-* read about yaml
+1- Go to the _post folder <br>
+2- Create a new post <br>
+3- Read up on [YAML](https://en.wikipedia.org/wiki/YAML)<br>
+4- Read up on [Markdown](http://en.wikipedia.org/wiki/Markdown) <br>
+5- Write the following syntax in the beginning of each post: <br>
+---
+layout: post
+title:  "[Name of Your Post"
+date:   [2014-11-11 10:09:33]
+categories: [category]
+---
+6- Write out your content <br>
+7- Name your post following this format: year-month-day-name-of-website <br>
+```
+Example: 2014-11-22-New-Blog-Post
+```
+8- Click on commmit changes to save post <br>
 
 #Study of the file tree
 
