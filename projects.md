@@ -6,7 +6,7 @@ permalink: /projects/
 
 ####Project Demo
 
-Initial implementation of the project is hosted in this [link](https://github.com/HackN)
+Initial implementation of the project is hosted in this [link](https://github.com/EUTS)
 
 The page contains:
 
