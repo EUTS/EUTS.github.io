@@ -1,4 +1,4 @@
-This is where the EUTS website is hosted.
+This is where the Effat University Tech Society website is hosted.
 
 If you're new here, read on to find out how you can contribute to the website. 
 
@@ -12,7 +12,7 @@ Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting start
 
 4- Send a pull request
 
-How you can help?
+How can you help?
 - Find spelling mistakes or faulty links
 - Answer frequently asked questions
 - Write out blog posts to help others with a problem 
@@ -39,5 +39,6 @@ Example: 2014-11-22-New-Blog-Post
 1- add fixed footer <br>
 2- add project description <br>
 3- fill out the content <br>
-4- Write guide to topics mentioned here <br>     
+4- Write guide to topics mentioned here   
 5- Create graphics for ze website (icons, background etc)<br>
+6- Make a Contact Us page

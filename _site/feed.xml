@@ -6,51 +6,9 @@
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Nov 2014 22:02:08 +0300</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2014 22:02:08 +0300</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2014 17:11:31 +0300</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2014 17:11:31 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
-    
-      <item>
-        <title>What is Git</title>
-        <description>&lt;p&gt;Git is an open source distributed &lt;a href=&quot;http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control&quot;&gt;version control system&lt;/a&gt; (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://motah.org.sa/ar/?q=node/126&quot;&gt;ما هو نظام التحكم في الإصدارات، و لماذا يجب أن يهمك؟&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;getting-started-with-git&quot;&gt;Getting started with git:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://git-scm.com/downloads&quot;&gt;Install git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/set-up-git/&quot;&gt;Setup git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://try.github.io&quot;&gt;Interactive tool to learn git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FyfwLX4HAxM&amp;amp;list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&quot;&gt;Check out the GitHub Webcasts on Youtube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/introduction/flow/index.html&quot;&gt;Explains git overflow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 16 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://euts.github.io/jekyll/update/2014/11/16/git.html</link>
-        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/16/git.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>How to post?</title>
-        <description>&lt;h1 id=&quot;test&quot;&gt;test&lt;/h1&gt;
-</description>
-        <pubDate>Sun, 16 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://euts.github.io/jekyll/update/2014/11/16/Test-post.html</link>
-        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/16/Test-post.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -85,17 +43,29 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
       </item>
     
       <item>
-        <title>Hello</title>
-        <description>&lt;p&gt;Hello World&lt;/p&gt;
+        <title>What is Git</title>
+        <description>&lt;p&gt;Git is an open source distributed &lt;a href=&quot;http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control&quot;&gt;version control system&lt;/a&gt; (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://motah.org.sa/ar/?q=node/126&quot;&gt;ما هو نظام التحكم في الإصدارات، و لماذا يجب أن يهمك؟&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started-with-git&quot;&gt;Getting started with git:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://git-scm.com/downloads&quot;&gt;Install git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/set-up-git/&quot;&gt;Setup git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://try.github.io&quot;&gt;Interactive tool to learn git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FyfwLX4HAxM&amp;amp;list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&quot;&gt;Check out the GitHub Webcasts on Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/introduction/flow/index.html&quot;&gt;Explains git overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Tue, 11 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://euts.github.io/hello/world/2014/11/11/Test.html</link>
-        <guid isPermaLink="true">http://euts.github.io/hello/world/2014/11/11/Test.html</guid>
+        <pubDate>Mon, 10 Nov 2014 13:09:33 +0300</pubDate>
+        <link>http://euts.github.io/jekyll/update/2014/11/10/git.html</link>
+        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/10/git.html</guid>
         
         
-        <category>hello</category>
+        <category>jekyll</category>
         
-        <category>world</category>
+        <category>update</category>
         
       </item>
     
