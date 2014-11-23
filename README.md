@@ -1,4 +1,4 @@
-This is where the EUTS website is hosted.
+This is where the Effat University Tech Society website is hosted.
 
 If you're new here, read on to find out how you can contribute to the website. 
 
