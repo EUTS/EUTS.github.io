@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-11-11 10:09:33
 categories: jekyll update
+tags: tutorial
+short: Introduction to Jekyll, with links on how to learn it.
 ---
 This is the base Jekyll theme. You can find out more info about customizing     your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.    com](http://jekyllrb.com/)
 You can find the source code for the Jekyll new theme at: [github.com/jglovi    er/jekyll-new](https://github.com/jglovier/jekyll-new) 

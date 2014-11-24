@@ -7,17 +7,14 @@ permalink: /posts/
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<hr>
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
+        <div class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small>
+        <small class="post-meta">Summary: {{ post.short }}</small>
+	</div>
+    
+<hr>
     {% endfor %}
-  </ul>
-
 </div>

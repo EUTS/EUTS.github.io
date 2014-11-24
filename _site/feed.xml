@@ -6,8 +6,8 @@
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Nov 2014 04:03:59 +0300</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2014 04:03:59 +0300</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2014 05:10:10 +0300</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2014 05:10:10 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -34,6 +34,8 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
         <pubDate>Tue, 11 Nov 2014 13:09:33 +0300</pubDate>
         <link>http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</guid>
+        
+        <category>tutorial</category>
         
         
         <category>jekyll</category>
