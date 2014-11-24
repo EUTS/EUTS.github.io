@@ -3,7 +3,6 @@ layout: page
 title: About Us
 permalink: /about/
 ---
-#Effat University Tech Society  
 
 ###Who are we? 
 
