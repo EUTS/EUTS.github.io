@@ -4,7 +4,7 @@ title: Partners
 permalink: /partners/
 ---
 <div calss="home">
-<h4>Cool prople you should know about: </h4>
+<h4>Cool people you should know about: </h4>
 
 {% for partner in site.data.partnersdb %}
 <section class="panel panel-default">
