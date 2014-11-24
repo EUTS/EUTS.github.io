@@ -11,7 +11,7 @@ permalink: /posts/
     {% for post in site.posts %}
         <div class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small>
+
         <small class="post-meta">Summary: {{ post.short }}</small>
 	</div>
     
