@@ -3,6 +3,8 @@ layout: page
 title: Partners 
 permalink: /partners/
 ---
+<div calss="home">
+<h4>Cool prople you should know about: </h4>
 
 {% for partner in site.data.partnersdb %}
 <section class="panel panel-default">
@@ -17,3 +19,4 @@ permalink: /partners/
  <hr>
 
 {% endfor %}
+</div>
