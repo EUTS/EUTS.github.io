@@ -1,4 +1,4 @@
-- name: EUTS web site 
+- name: EUTS
   author: EUTS
   url: //github.com/EUTS/EUtS.github.io
   description: This is where the code for the website is hosted. We chose to make it fully accesible in order to give others the opportunity to add further improvements. 
