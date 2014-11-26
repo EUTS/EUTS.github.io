@@ -1,3 +1,9 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+
 /**
  * Reset some basic elements
  */
@@ -14,6 +20,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+	margin: 0 0 100px;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
