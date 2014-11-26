@@ -3,6 +3,6 @@
   url: //github.com/EUTS/EUtS.github.io
   description: Page where the code for the website is hosted, thus giving opportunity to others to add further improvements. 
 - name: Packet Analyzer 
-  author: EUTS
+  author: Superviser Name
   url: //github.com/EUTS/packet-sniffer
   description: Sample project that can be further improved, which is an implementation of a packet analyzer. A packet analyzer (sniffer) is a program that intercepts the traffic passing through a network interface. In this project, we are going to implement our own packet sniffer using the libpcap library and to validate our program on actual network traffic.
