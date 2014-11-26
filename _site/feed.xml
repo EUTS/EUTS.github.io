@@ -6,8 +6,13 @@
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< Updated upstream
     <pubDate>Wed, 26 Nov 2014 21:56:12 +0300</pubDate>
     <lastBuildDate>Wed, 26 Nov 2014 21:56:12 +0300</lastBuildDate>
+=======
+    <pubDate>Wed, 26 Nov 2014 23:40:34 +0300</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 23:40:34 +0300</lastBuildDate>
+>>>>>>> Stashed changes
     <generator>Jekyll v2.5.1</generator>
     
       <item>
