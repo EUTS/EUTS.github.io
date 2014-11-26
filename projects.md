@@ -13,6 +13,11 @@ permalink: /projects/
 <div class="site-title">
 <a href="{{ project.url }}"> {{ project.name }} </a>
 <small class="text"> {{ project.author }} </small>
+<div> <a href="{{ project.url }}"><h5> <span class="glyphicon glyphicon-globe"></span>  Code</h5></a>  </div>
+
+
+
+
 </div>
 <p> {{ project.description }} </p>
     </div>
