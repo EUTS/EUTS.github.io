@@ -15,6 +15,7 @@ Share your knowledge with others here! Write about a project you're working on, 
     {% for post in site.posts %}
         <div class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <small class="post-meta">{{post.author}}</small>
 
         <small class="post-meta">Summary: {{ post.short }}</small>
 	</div>
