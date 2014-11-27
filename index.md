@@ -16,7 +16,7 @@ Hacking, Web development, Mobile Development, Game development ... You name it!
 
 ####I'm interested. Can I sign up?
 
-Of course you can. It doesn't matter if your programming journey has just begun or if you're already a programming genius - if you're an Effat Student, you're most than welcome to join us. 
+Of course you can! It doesn't matter if your programming journey has just begun or if you're already a programming genius - you're most than welcome to join us. 
 
 
 
