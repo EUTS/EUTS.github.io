@@ -26,6 +26,9 @@ How can you help?
 File name: yyyy-mm-dd-New-Blog-Post
 Example: 2014-11-22-New-Blog-Post
 ```
+
+![New post file name](/assets/imgs/newpost.png)
+
 4- Start the post with:
 ```
 ---
@@ -37,6 +40,9 @@ categories: category of the post
 short: short summary about the post
 ---
 ```
+
+![YAML](/assets/imgs/postformat.png)
+
   * For more information about this format,  read about: [YAML](https://en.wikipedia.org/wiki/YAML) <br>
   * To style your post, read up on [Markdown](http://en.wikipedia.org/wiki/Markdown) <br>
   * Look at the source code of previous posts <br>
