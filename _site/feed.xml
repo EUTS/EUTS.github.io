@@ -6,9 +6,23 @@
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Nov 2014 14:36:49 +0300</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2014 14:36:49 +0300</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2014 14:20:10 +0300</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2014 14:20:10 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Posting Through Github</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/imgs/newpost.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;img src=&quot;/assets/imgs/postformat.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Nov 2014 00:00:00 +0300</pubDate>
+        <link>http://euts.github.io/new/2014/11/28/posting.html</link>
+        <guid isPermaLink="true">http://euts.github.io/new/2014/11/28/posting.html</guid>
+        
+        
+        <category>new</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -57,8 +71,8 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
   &lt;li&gt;&lt;a href=&quot;https://try.github.io&quot;&gt;Interactive tool to learn git&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FyfwLX4HAxM&amp;amp;list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&quot;&gt;Check out the GitHub Webcasts on Youtube&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://guides.github.com/introduction/flow/index.html&quot;&gt;Explains git overflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=cEGIFZDyszA&amp;amp;list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&amp;amp;spfreload=10&quot;&gt;New Boston Github tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Mon, 10 Nov 2014 13:09:33 +0300</pubDate>
         <link>http://euts.github.io/jekyll/update/2014/11/10/git.html</link>
