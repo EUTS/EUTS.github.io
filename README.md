@@ -21,14 +21,15 @@ How can you help?
 #How to post:
 1- Go to the _post folder <br>
 2- Create a new post <br>
+
+![New post file name](/assets/imgs/newpost.png)
+
+
 3 - Name your post following this format: year-month-day-name-of-website <br>
 ```
 File name: yyyy-mm-dd-New-Blog-Post
 Example: 2014-11-22-New-Blog-Post
 ```
-
-![New post file name](/assets/imgs/newpost.png)
-
 4- Start the post with:
 ```
 ---
