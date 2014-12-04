@@ -6,9 +6,6 @@ author: Yumna Aziz
 categories: Web Development Resources
 short: Some resouces to learn HTML, CSS, Javascript and PHP.
 ---
-
-#Getting started with the basics of PHP
-
 <hr>
 
 Before you get started with PHP, you should probably have a good understanding of HTML, CSS and some Javascript. 
