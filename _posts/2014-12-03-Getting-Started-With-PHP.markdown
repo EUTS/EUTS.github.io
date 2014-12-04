@@ -9,7 +9,7 @@ short: Some resouces to learn HTML, CSS, Javascript and PHP.
 <hr>
 
 Before you get started with PHP, you should probably have a good understanding of HTML, CSS and some Javascript. 
-Even before I took my Internet and Web programming course, I found some interesting resources to learn these three 
+While looking for web development stuff online, I found some interesting resources to learn these three 
 languages from, one of them being a website called [Dash](https://dash.generalassemb.ly/). 
 
 Dash is a website that teaches you HTML, CSS and Javascript through a series of mini projects; where the first one is 
@@ -22,7 +22,7 @@ you a pretty good start.
 Another website that I’d recommend is the [W3Schools](http://www.w3schools.com/default.asp) website. Here, you can
 find all there is to know related to HTML, CSS, Javascript, PHP, SQL, and JQuery. It’s basically your reference for 
 web development. So far, we’ve been using this website in our Internet and Web programming course and it’s come in 
-pretty handy when you want refer back to something. I do find it a bit scattered though - meaning, if you wanted to
+pretty handy when you want refer back to something. I do find it a bit unconnected though - meaning, if you wanted to
 start from scratch, you’re not really sure where to begin. That’s where, I think, projects come in handy. 
 
 After you’re familiar with these the building blocks of webs development, you can start dabbling in a bit of PHP. 
