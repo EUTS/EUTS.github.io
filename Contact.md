@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Contact 
-permalink: /Contact/
+title: Join Us 
+permalink: /JoinUs/
 ---
 
 <div class="small">
-<form action="//forms.brace.io/yaziz@effat.edu.sa">
-  <input type="email" name="_replyto">
-  <textarea name="body">
-  <input type="Submit" value="Send">
+<form  method="POST" action="http://forms.brace.io/yaziz@effat.edu.sa">
+  
+  Effat Email: <input type="email" name="_replyto">
+  Github Account: <input type="text" name="_github">
+  <input type="Submit" value="Join Us">
 </form>
 </div>
