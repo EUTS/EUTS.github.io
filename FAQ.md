@@ -18,7 +18,7 @@ Bootstrap is a collecion of tools for creating websites and web applications. It
 
 ####3) Do I have to learn Jekyll and Bootstrap?
 
-Only if you're interested in contributing to the development of this website. We really are in need of some "helping" hands so if you're willing to put in some time and effort, here's a [tutorial](http://learn.andrewmunsell.com/learn/jekyll-by-example/introduction) to help you get started on the basics of Jekyll. Also check out the post on [Welcome to Jekyll!](http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html)
+Only if you're interested in contributing to the development of this website. We really are in need of some "helping" hands so if you're willing to put in some time and effort, here's a [tutorial](http://learn.andrewmunsell.com/learn/jekyll-by-example/installing-jekyll) to help you get started on the basics of Jekyll. Also check out the post on [Welcome to Jekyll!](http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html)
 
 
 
