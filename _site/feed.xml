@@ -6,9 +6,52 @@
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Nov 2014 14:28:44 +0300</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2014 14:28:44 +0300</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2014 17:14:40 +0300</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2014 17:14:40 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Getting Started with the Basics of PHP</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;Before you get started with PHP, you should probably have a good understanding of HTML, CSS and some Javascript. 
+While looking for web development stuff online, I found some interesting resources to learn these three 
+languages from, one of them being a website called &lt;a href=&quot;https://dash.generalassemb.ly/&quot;&gt;Dash&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Dash is a website that teaches you HTML, CSS and Javascript through a series of mini projects; where the first one is 
+to build a personal website. It allows you to experiment by being able to see your output directly on the screen in 
+front of you, while also giving you instructions on what to do next. What I like most about dash is that you can 
+build these projects from scratch and so you know exactly how each element is connected to another. The projects are 
+quite limited though; the website doesn’t teach you EVERYTHING there is to know about web development, but it gives 
+you a pretty good start. &lt;/p&gt;
+
+&lt;p&gt;Another website that I’d recommend is the &lt;a href=&quot;http://www.w3schools.com/default.asp&quot;&gt;W3Schools&lt;/a&gt; website. Here, you can
+find all there is to know related to HTML, CSS, Javascript, PHP, SQL, and JQuery. It’s basically your reference for 
+web development. So far, we’ve been using this website in our Internet and Web programming course and it’s come in 
+pretty handy when you want refer back to something. I do find it a bit unconnected though - meaning, if you wanted to
+start from scratch, you’re not really sure where to begin. That’s where, I think, projects come in handy. &lt;/p&gt;
+
+&lt;p&gt;After you’re familiar with these the building blocks of webs development, you can start dabbling in a bit of PHP. 
+Personally, I like guides which show me how to do things from scratch, and luckily, I found just that when looking 
+for “How to get started with PHP”: a post by a freelance Web Designer, Kevin Stenley. His post, which you can find 
+&lt;a href=&quot;http://www.1stwebdesigner.com/tutorials/how-to-create-php-website-template/&quot;&gt;here&lt;/a&gt;, takes you through creating a 
+PHP website template. It’s really just the basics, but it’s a good place to start. The website itself,
+www.1stwebdesigner.com is also worth checking out, especially the tutorial tab (you know, just for fun!)&lt;/p&gt;
+
+&lt;p&gt;I guess that’s it for now. If you find any other resources that you’d like to share, you’re welcome to edit this post, or make your own. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Dec 2014 23:19:00 +0300</pubDate>
+        <link>http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html</link>
+        <guid isPermaLink="true">http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>development</category>
+        
+        <category>resources</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -16,7 +59,7 @@
 You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https://github.com/jglovier/jekyll-new&quot;&gt;github.com/jglovi    er/jekyll-new&lt;/a&gt; 
  You can find the source code for Jekyll at &lt;a href=&quot;https:    //github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll server&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
