@@ -1,0 +1,12 @@
+- img: who.png
+  category: Services
+  title: Who are we?
+  description: We’re a group of students who come together to brainstorm ideas, develop and share code, improve our skills and discuss anything related to programming and technology.
+- img: what.png
+  category: Services
+  title: What do we do?
+  description: Hacking, Web development, Mobile Development, Game development … You name it!
+- img: join.png
+  category: Services
+  title: I’m interested. Can I sign up?
+  description: Of course you can! It doesn’t matter if your programming journey has just begun or if you’re already a programming genius - you’re most than welcome to join us.  

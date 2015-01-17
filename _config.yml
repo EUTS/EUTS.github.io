@@ -1,12 +1,29 @@
-# Site settings
-title:  EUTS  
-tagline: Effat University Tech Society
-email: hamohammed.sa@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
- Website for our little community. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://euts.github.io" # the base hostname & protocol for your site
-github_username:  EUTS
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://euts.github.io
+title: Effat University Tech Society
+email: your-email@domain.com
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/euts
