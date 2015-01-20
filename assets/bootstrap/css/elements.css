@@ -23,17 +23,17 @@ div#popupContact {
 position:absolute;
 left:50%;
 top:17%;
-margin-left:-150px;
-font-family:'Raleway',sans-serif
+margin-left:-222px;
+font-family:'Times New Roman',serif;
 }
 form {
-max-width:300px;
-min-width:250px;
+max-width:450px;
+min-width:350px;
 padding:10px 50px;
 border:2px solid gray;
 border-radius:10px;
-font-family:raleway;
-background-color:#fff
+font-family: 'Times New Roman',serif;
+background-color:white;
 }
 p.class2{
 margin-top:30px
@@ -50,15 +50,7 @@ margin:10px -50px;
 border:0;
 border-top:1px solid #ccc
 }
-input[type=text] {
-width:82%;
-padding:10px;
-margin-top:30px;
-border:1px solid #ccc;
-padding-left:40px;
-font-size:16px;
-font-family:raleway
-}
+
 #name {
 text-align:left;
 }
@@ -84,14 +76,13 @@ margin-bottom:30px
 }
 #submit {
 text-decoration:none;
-width:83%;
-text-align:center;
-display:block;
-background-color:#66CCFF ;
-color:#fff;
-border:1px solid #FFCB00;
-padding:5px 0;
+width:100%;
+text-align:left;
+background-color:#CC0000 ;
+color:white;
+border:1px solid;
 font-size:20px;
+padding:3px;
 cursor:pointer;
 border-radius:5px
 }
@@ -99,21 +90,38 @@ span.class1{
 color:red;
 font-weight:700
 }
-button {
+button{
 width:20%;
 height:45px;
-border-radius:3px;
-background-color:#66CCFF ;
-color:#fff;
-font-family:'Raleway',sans-serif;
+border-radius:5px;
+background-color:#CC0000;
+color:white;
+font-family: 'Arial', serif;
 font-size:18px;
 cursor:pointer
 }
-.wrapper12{
+
+.buttonCenter{
 	text-align:center;
 }
 
-.button12{
-	position:absolute;
-	top:50%;
+.buttons{
+	padding-top:4px;
+}
+#cancel{
+	padding:3px;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.glowing-border{
+    border: 2px solid #999;
+    border-radius: 5px;
+    width:100%;
+}
+
+.glowing-border:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
 }

@@ -1,11 +1,11 @@
 
 // Validating Empty Field
 function check_empty() {
-if (document.getElementById('name').value == "" || document.getElementById('email').value == "" || document.getElementById('msg').value == "") {
-alert("Fill All Fields !");
+if (document.getElementById('fullname').value == "" || document.getElementById('effatemail').value == "") {
+alert("Please enter a name and an Effat email to join.");
 } else {
 document.getElementById('form').submit();
-alert("Form Submitted Successfully...");
+alert("Submitted Successfully!");
 }
 }
 //Function To Display Popup

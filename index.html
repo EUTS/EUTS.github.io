@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
+
   <link href="assets/bootstrap/css/elements.css" rel="stylesheet">
   <script src="assets/bootstrap/js/my_js.js"></script>
 
@@ -44,12 +45,6 @@
           
         
           
-        
-          
-        
-          
-        
-          
           <a class="page-link" href="/partners/">Partners</a>
           
         
@@ -75,7 +70,7 @@
         <div class="post">
 
   <article class="post-content">
-    <h2 id="buwelcome-to-effat-university-tech-societyub"><b><u>Welcome to Effat University Tech Society!</u></b></h2>
+    <h2 id="buwelcome-to-effat-university-tech-societyub"><b><u><font face="Andalus">Welcome to Effat University Tech Society!</font></u></b></h2>
 
 <p> If you've got a passion for programming or are just a newbie looking for a place to grow, you've come to the right place. </p>
 
@@ -94,30 +89,56 @@
 
   </article>
 
-
+<!--This is the code for the Join Us Button -->
 
 <div id="abc">
 <!-- Popup Div Starts Here -->
 <div id="popupContact">
 <!-- Contact Us Form -->
-<form method="POST" action="http://forms.brace.io/yaziz@effat.edu.sa" id="form" method="post" name="form">
-  
-<img id="close" src="assets/bootstrap/css/close.png" width="25" height="25" onclick ="div_hide()">
-<h2 class="class">Welcome</h2>
+<div class="container">
+    <form role="form" class="" action="http://formspree.io/yaziz@effat.edu.sa" id="form" method="post">
 
-<input id="name" name="name" placeholder="Name" type="text"> <br><br>
-<input id="email" name="_replyto" placeholder="Effat Email" type="email"> <br><br>
-<textarea id="msg" name="git" placeholder="Github Username"></textarea>
-<br> <br>
-<a href="javascript:%20check_empty()" id="submit">Join Us</a>
-</form>
+      <h2>Join Us</h2>
+
+      <B><hr></B><br>
+ 
+      <div class="form-group">
+      <label>Enter your full name, please:</label><br>
+      <input class="glowing-border" type="text" name="name" id="fullname" placeholder="Full Name">
+      </div>
+
+      <div class="form-group">
+      <label>Enter your Effat Email Address:</label><br>
+      <input class="glowing-border" type="email" name="_replyto" id="effatemail" placeholder="Effat Email">
+      </div>
+
+      <div class="form-group">
+      <label>Enter your Github Username (if you've got one):</label><br>
+      <input class="glowing-border" type="text" name ="username" id="github" placeholder="Github Username">
+      </div>
+
+      <hr>
+      <div class="form-group">
+
+      <div class="buttons">
+
+      <a href="javascript:%20check_empty()" id="submit">Register</a>
+      <a onclick ="div_hide()" id="cancel" style="padding:3px">Cancel</a>
+      
+      </div>
+
+      </div>
+    </form>
+  </div>
 </div>
 <!-- Popup Div Ends Here -->
 </div>
 <!-- Display Popup Button -->
-<div class="wrapper12">
-<button id="popup" onclick="div_show()">Join Us</button>
+<div class="buttonCenter"> <!--Wrapper12 keeps the button in the center-->
+<button id="pop" onclick="div_show()">Join Us</button>
 </div>
+
+
 </div>
 
       </div>
