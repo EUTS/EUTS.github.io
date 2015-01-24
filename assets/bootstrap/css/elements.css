@@ -39,14 +39,13 @@ p.class2{
 margin-top:30px
 }
 h2.class{
-background-color:#66CCFF ;
+background-color:black ;
 padding:20px 35px;
 margin:-10px -50px;
 text-align:center;
 border-radius:10px 10px 0 0
 }
-hr {
-margin:10px -50px;
+hr.class3{
 border:0;
 border-top:1px solid #ccc
 }
@@ -78,7 +77,7 @@ margin-bottom:30px
 text-decoration:none;
 width:100%;
 text-align:left;
-background-color:#CC0000 ;
+background-color:black ;
 color:white;
 border:1px solid;
 font-size:20px;
