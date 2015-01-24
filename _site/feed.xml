@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EUTS</title>
-    <description>Website for our little community. 
+    <title>Effat University Tech Society</title>
+    <description>You can edit this line in _config.yml. It will appear in your document  head meta (for Google search results) and in your feed.xml site  description.&quot;
 </description>
     <link>http://euts.github.io/</link>
     <atom:link href="http://euts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-
-    <pubDate>Sat, 24 Jan 2015 18:38:51 +0300</pubDate>
-    <lastBuildDate>Sat, 24 Jan 2015 18:38:51 +0300</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2015 20:28:38 +0300</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2015 20:28:38 +0300</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -19,12 +18,13 @@
 While looking for web development stuff online, I found some interesting resources to learn these three 
 languages from, one of them being a website called &lt;a href=&quot;https://dash.generalassemb.ly/&quot;&gt;Dash&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Dash is a website that teaches you HTML, CSS and Javascript through a series of mini projects; where the first one is 
-to build a personal website. It allows you to experiment by being able to see your output directly on the screen in 
+&lt;p&gt;Dash is a website that teaches you HTML, CSS and Javascript through a series of mini projects; where the first one is to build a personal website. It allows you to experiment by being able to see your output directly on the screen in 
 front of you, while also giving you instructions on what to do next. What I like most about dash is that you can 
 build these projects from scratch and so you know exactly how each element is connected to another. The projects are 
 quite limited though; the website doesn’t teach you EVERYTHING there is to know about web development, but it gives 
 you a pretty good start. &lt;/p&gt;
+
+&lt;p&gt;Another two project based websites that teach HTML, CSS and Javascript are: &lt;a href=&quot;http://www.codeavengers.com&quot;&gt;Code Avengers&lt;/a&gt; and &lt;a href=&quot;http://www.codecademy.com&quot;&gt;Code Academy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Another website that I’d recommend is the &lt;a href=&quot;http://www.w3schools.com/default.asp&quot;&gt;W3Schools&lt;/a&gt; website. Here, you can
 find all there is to know related to HTML, CSS, Javascript, PHP, SQL, and JQuery. It’s basically your reference for 
@@ -32,18 +32,16 @@ web development. So far, we’ve been using this website in our Internet and Web
 pretty handy when you want refer back to something. I do find it a bit unconnected though - meaning, if you wanted to
 start from scratch, you’re not really sure where to begin. That’s where, I think, projects come in handy. &lt;/p&gt;
 
-&lt;p&gt;After you’re familiar with these the building blocks of webs development, you can start dabbling in a bit of PHP. 
+&lt;p&gt;After you’re familiar with these the building blocks of web development, you can start dabbling in a bit of PHP. 
 Personally, I like guides which show me how to do things from scratch, and luckily, I found just that when looking 
-for “How to get started with PHP”: a post by a freelance Web Designer, Kevin Stenley. His post, which you can find 
-&lt;a href=&quot;http://www.1stwebdesigner.com/tutorials/how-to-create-php-website-template/&quot;&gt;here&lt;/a&gt;, takes you through creating a 
-PHP website template. It’s really just the basics, but it’s a good place to start. The website itself,
-www.1stwebdesigner.com is also worth checking out, especially the tutorial tab (you know, just for fun!)&lt;/p&gt;
+for “Learning PHP step by step”: a post written by Kristain Guevara. His post, which you can find 
+&lt;a href=&quot;http://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating&quot;&gt;here&lt;/a&gt;, takes you through creating a PHP website from the very beginning. It includes, along with other things, how to set up your server, how to set up a login interface and how to create a database. &lt;/p&gt;
 
 &lt;p&gt;I guess that’s it for now. If you find any other resources that you’d like to share, you’re welcome to edit this post, or make your own. &lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Dec 2014 23:19:00 +0300</pubDate>
-        <link>http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html</link>
-        <guid isPermaLink="true">http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP.html</guid>
+        <link>http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP/</link>
+        <guid isPermaLink="true">http://euts.github.io/web/development/resources/2014/12/03/Getting-Started-With-PHP/</guid>
         
         
         <category>web</category>
@@ -55,12 +53,14 @@ www.1stwebdesigner.com is also worth checking out, especially the tutorial tab (
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing     your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.    com&lt;/a&gt;
+        <title>What and How of &#39;Jekyll&#39;</title>
+        <description>&lt;p&gt;Jekyll is a blog-aware, static site generator in &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;. Jekyll takes the content of your website, renders &lt;a href=&quot;http://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt; and &lt;a href=&quot;http://liquidmarkup.org/&quot;&gt;Liquid&lt;/a&gt; templates, and spits out a complete, static website ready to be served by a web server. Jekyll is the engine behind GitHub Pages, which is used to host this site.&lt;/p&gt;
+
+&lt;p&gt;You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.    com&lt;/a&gt;
 You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https://github.com/jglovier/jekyll-new&quot;&gt;github.com/jglovi    er/jekyll-new&lt;/a&gt; 
  You can find the source code for Jekyll at &lt;a href=&quot;https:    //github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll server&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;This post is in &lt;code&gt;_posts&lt;/code&gt; directory.  There are many different ways to rebuild the site, but the most common way is to run &lt;code&gt;jekyll server&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -76,8 +76,8 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
 
 </description>
         <pubDate>Tue, 11 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll.html</guid>
+        <link>http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/11/welcome-to-jekyll/</guid>
         
         <category>tutorial</category>
         
@@ -105,8 +105,8 @@ You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Nov 2014 13:09:33 +0300</pubDate>
-        <link>http://euts.github.io/jekyll/update/2014/11/10/git.html</link>
-        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/10/git.html</guid>
+        <link>http://euts.github.io/jekyll/update/2014/11/10/git/</link>
+        <guid isPermaLink="true">http://euts.github.io/jekyll/update/2014/11/10/git/</guid>
         
         
         <category>jekyll</category>
