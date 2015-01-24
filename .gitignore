@@ -1,4 +1,7 @@
 _site/
 .DS_Store
 .sass-cache/
+_site/
+*.swp
+*.scssc
 *.*~

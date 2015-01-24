@@ -62,3 +62,4 @@ short: short summary about the post
 4- Write guide to topics mentioned here   
 5- Create graphics for ze website (icons, background etc)<br>
 6- Make a Contact Us page
+7- Live viewing and video tutorials
