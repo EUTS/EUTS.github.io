@@ -1,0 +1,98 @@
+@import "http://fonts.googleapis.com/css?family=Raleway";
+/*----------------------------------------------
+CSS settings for HTML div Exact Center
+------------------------------------------------*/
+#abc {
+width:100%;
+height:100%;
+opacity:.95;
+top:0;
+left:0;
+display:none;
+position:fixed;
+background-color:#313131;
+overflow:auto
+}
+
+div#popupContact {
+position:absolute;
+left:50%;
+top:17%;
+margin-left:-222px;
+font-family:'Times New Roman',serif;
+}
+
+form {
+max-width:450px;
+min-width:350px;
+padding:10px 50px;
+border:2px solid gray;
+border-radius:10px;
+font-family: 'Times New Roman',serif;
+background-color:white;
+}
+p.class2{
+margin-top:30px
+}
+h2.class{
+background-color:black ;
+padding:20px 35px;
+margin:-10px -50px;
+text-align:center;
+border-radius:10px 10px 0 0;
+color: white;
+}
+
+hr.class3{
+border:0;
+border-top:1px solid #ccc
+}
+
+#submit {
+text-decoration:none;
+width:100%;
+text-align:left;
+background-color:black ;
+color:white;
+border:1px solid;
+font-size:20px;
+padding:3px;
+cursor:pointer;
+border-radius:5px
+}
+span.class1{
+color:red;
+font-weight:700
+}
+
+.buttonCenter{
+	text-align:center;
+}
+
+.buttons{
+	padding-top:4px;
+}
+#cancel{
+	padding:3px;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.glowing-border{
+    border: 2px solid #999;
+    border-radius: 5px;
+    width:100%;
+    color: black;
+}
+
+.glowing-border:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.text {
+    color:black;
+}
+
+
