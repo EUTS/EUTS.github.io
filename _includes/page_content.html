@@ -1,8 +1,9 @@
 <!-- Page Content -->
+<dive id="about">
 {% for post in site.data.services %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-b">
+    <div class="content-section-a">
 
         <div class="container">
 
@@ -28,7 +29,7 @@
     <!-- /.content-section-a -->
     {% else %}
 
-    <div class="content-section-a">
+    <div class="content-section-b">
 
         <div class="container">
 
@@ -51,7 +52,7 @@
     <!-- /.content-section-b -->
     {% endif %}
 {% endfor %}
-
+</div>
 
 <!-- projects Grid Section -->
 
