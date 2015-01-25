@@ -2,7 +2,7 @@
 // Validating Empty Field
 function check_empty() {
 if (document.getElementById('fullname').value == "" || document.getElementById('effatemail').value == "") {
-alert("Please enter a name and an Effat email to join.");
+alert("Please enter a name and an effat email to join.");
 } 
 else if(!validateEmail())
 {
