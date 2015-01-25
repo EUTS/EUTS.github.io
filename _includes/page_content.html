@@ -1,5 +1,5 @@
 <!-- Page Content -->
-<dive id="about">
+<div id="about">
 {% for post in site.data.services %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
@@ -67,8 +67,7 @@
          </div>
     </div>
  
-   
-         
+
 
 
 <div class="row">
@@ -96,6 +95,7 @@
 
 
   {% for project in site.data.projectsdb %}
+
  
 <!-- projects Modals -->
     <div class="projects-modal modal fade" id="{{ project.index }}" tabindex="-1" role="dialog" aria-hidden="true">
