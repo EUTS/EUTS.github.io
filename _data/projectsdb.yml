@@ -8,3 +8,10 @@
   index: 2
   url: //github.com/EUTS/packet-sniffer
   description: An implementation of a packet analyzer that can be improved on. A packet analyzer (sniffer) is a program that intercepts the traffic passing through a network interface. In this project, we are going to implement our own packet sniffer using the libpcap library and to validate our program on actual network traffic.
+- name: Pre-RegistrationWebsite
+  author: Dr. Wadee Halabi
+  index: 3
+  url: //github.com/EUTS/Pre-RegistrationWebsite
+  description: Cyper advisor for students
+
+

@@ -22,6 +22,33 @@ h6 {
 }
  
 
+.site-title {
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+.site-title a {
+    font-size: 26px;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    color: #828282;
+}
+
+.site-title small {
+    font-size: 80%;
+    font-weight: 100;
+    color: #969896;
+    position: relative;
+    letter-spacing: 0;
+    margin: 10px;
+    margin-bottom: 0;
+}
+
+
+
 
 .lead {
     font-size: 18px;
