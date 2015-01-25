@@ -1,0 +1,43 @@
+---
+layout: default
+title: partners 
+permalink: /partners/
+---
+
+{% include intro.html %}
+<!-- partners Grid Section -->
+
+<section id="partners">
+<div class="container"> 
+    <div class="row">
+         <div class="col-lg-12 text-center">
+             <h2>Partners</h2>
+             <hr class="star-primary">
+             <h3>Cool people you should know about</h3>
+         </div>
+    </div>
+ 
+<div class="row">
+     {% for partner in site.data.partnersdb %}
+  <div class="col-sm-6 col-md-4 partners-item">
+    <div class="thumbnail">
+       <div id="logo">   
+      <img src="/img/partners/{{partner.img}}" class="img-responsive"  height="300" width="300">
+  </div>
+      <div class="caption">
+        <h3>{{ partner.name }}</h3>
+        <p>{{ partner.description }}</p>
+        <p><a href="{{ partner.url }}" target="_blank" class="btn btn-default" role="button">Visit &raquo;</a></p>
+      </div>
+    </div>
+  </div>
+          {% endfor %}
+
+</div>
+
+
+</div>
+</section>
+
+
+ 
