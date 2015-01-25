@@ -2,8 +2,7 @@
 layout: default
 ---
 
- 
- <dive id="blog">   
+
   
  <!-- Page Content -->
     <div class="container">
@@ -16,25 +15,34 @@ layout: default
          </div>
     </div>
         </div>
-
+  {% for post in site.posts %}
         <!-- Project One -->
-        <div class="row">
+         <div class="row">
             <div class="col-md-3">
                 <a href="#">
                     <img class="img-responsive" src="http://placehold.it/300x300" alt="">
                 </a>
             </div>
+            <div class="post">
             <div class="col-md-7">
-                <h3>Project One</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
+                <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                <p class="post-meta">{{post.author}}</p>
+               <article class="post-content">
+                      <small class="post-meta">Summary: {{ post.short }}</small>
+                </article>
+                <a class="btn btn-primary" href="#">Read More<span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
+                    </div>
+
         </div>
         <!-- /.row -->
 
         <hr>
-
-  
+           {% endfor %}
       </div>
-           </div>
+
+ 
+
+    
+ 
+ 
