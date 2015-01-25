@@ -5,7 +5,7 @@ date:   2014-11-10 10:09:33
 author: EUTS
 categories: jekyll update
 short: Introduction to Version Control and Git.
-img: "/img/projects/game.png"
+img: "git.png"
 ---
 Git is an open source distributed [version control system](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. 
 

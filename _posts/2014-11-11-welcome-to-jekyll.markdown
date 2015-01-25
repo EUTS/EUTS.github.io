@@ -6,7 +6,7 @@ categories: jekyll update
 author: EUTS
 tags: tutorial
 short: Introduction to Jekyll, with links on how to learn it.
-img: "/img/projects/cake.png"
+img: "jekyll.png"
 ---
 Jekyll is a blog-aware, static site generator in [Ruby](https://www.ruby-lang.org/en/). Jekyll takes the content of your website, renders [Markdown](http://en.wikipedia.org/wiki/Markdown) and [Liquid](http://liquidmarkup.org/) templates, and spits out a complete, static website ready to be served by a web server. Jekyll is the engine behind GitHub Pages, which is used to host this site.
 

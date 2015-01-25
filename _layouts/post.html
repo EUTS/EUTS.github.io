@@ -1,19 +1,26 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-    <h1 class="title">{{ page.title }}</h1>
-    
-    <p class="meta">
-    {{ page.date | date: "%B %-d, %Y" }}
-    {% if page.author %} - {{ page.author }}{% endif %}
-    </p>
-  </header>
-
-  <section class="post-content">
+<!-- Header -->
+<div class="container">
+  <div class="content-section-b">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1 class="title">{{ page.title }}</h1>
+          <p class="meta">
+          {{ page.date | date: "%B %-d, %Y" }}
+          {% if page.author %} - {{ page.author }}{% endif %}
+          </p>
+          <hr class="star-primary">
+          <p class="lead">{{ page.short }} </p>
+        </div>
+    </div>
+  </div>
+<!-- End Header -->
+      
+  <article class="lead">
     {{ content }}
-  </section>
+  </article>
  
-</article>
+</div>

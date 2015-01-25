@@ -5,7 +5,7 @@ date: 2014-12-03 11:19PM
 author: Yumna Aziz
 categories: Web Development Resources
 short: Some resouces to learn HTML, CSS, Javascript and PHP.
-img: "/img/projects/safe.png"
+img: "php.png"
 ---
 <hr>
 
