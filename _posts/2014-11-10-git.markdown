@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "What is Git"
+date:   2014-11-10 10:09:33
+author: EUTS
+categories: jekyll update
+short: Introduction to Version Control and Git.
+img: "/img/projects/game.png"
+---
+Git is an open source distributed [version control system](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. 
+
+[ما هو نظام التحكم في الإصدارات، و لماذا يجب أن يهمك؟](http://motah.org.sa/ar/?q=node/126)
+ 
+##Getting started with git:
+- [Install git](http://git-scm.com/downloads)
+- [Setup git](https://help.github.com/articles/set-up-git/)
+- [Interactive tool to learn git](https://try.github.io)
+- [Check out the GitHub Webcasts on Youtube](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
+- [Explains git overflow](https://guides.github.com/introduction/flow/index.html)
+- [New Boston Github tutorial](http://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&spfreload=10)

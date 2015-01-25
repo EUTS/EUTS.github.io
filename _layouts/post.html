@@ -1,48 +1,19 @@
 ---
 layout: default
 ---
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-
-  
- <!-- Page Content -->
-    <div class="container">
-      <div class="content-section-b">
-  <div class="row">
-         <div class="col-lg-12 text-center">
-             <h2>knowledge Archives</h2>
-             <hr class="star-primary">
-             <p class="lead"><i>Share you knowledge! </i> Write about a project you're working on, a new tool you've learned, or a tutorial to help others. To learn more on how to post check out this </p>
-         </div>
-    </div>
-        </div>
-  {% for post in site.posts %}
-        <!-- Project One -->
-         <div class="row">
-            <div class="col-md-3">
-                <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/300x300" alt="">
-                </a>
-            </div>
-            <div class="post">
-            <div class="col-md-7">
-                <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                <p class="post-meta">{{post.author}}</p>
-               <article class="post-content">
-                      <small class="post-meta">Summary: {{ post.short }}</small>
-                </article>
-                <a class="btn btn-primary" href="#">Read More<span class="glyphicon glyphicon-chevron-right"></span></a>
-            </div>
-                    </div>
-
-        </div>
-        <!-- /.row -->
-
-        <hr>
-           {% endfor %}
-      </div>
-
- 
-
+  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 class="title">{{ page.title }}</h1>
     
+    <p class="meta">
+    {{ page.date | date: "%B %-d, %Y" }}
+    {% if page.author %} - {{ page.author }}{% endif %}
+    </p>
+  </header>
+
+  <section class="post-content">
+    {{ content }}
+  </section>
  
- 
+</article>
