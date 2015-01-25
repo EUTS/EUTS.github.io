@@ -22,7 +22,9 @@ How can you help?
 1- Go to the _post folder <br>
 2- Create a new post <br>
 
-![New post file name](/assets/imgs/newpost.png)
+
+![New post file name](/img/posts/newpost.png)
+
 
 
 3 - Name your post following this format: year-month-day-name-of-website <br>
@@ -42,7 +44,11 @@ short: short summary about the post
 ---
 ```
 
+<<<<<<< HEAD
 ![YAML](/assets/imgs/postformat.png)
+=======
+![YAML](/img/posts/postformat.png)
+>>>>>>> FETCH_HEAD
 
   * For more information about this format,  read about: [YAML](https://en.wikipedia.org/wiki/YAML) <br>
   * To style your post, read up on [Markdown](http://en.wikipedia.org/wiki/Markdown) <br>
@@ -61,4 +67,8 @@ short: short summary about the post
 3- fill out the content <br>
 4- Write guide to topics mentioned here   
 5- Create graphics for ze website (icons, background etc)<br>
+<<<<<<< HEAD
 6- Make a Contact Us page
+=======
+6- Make a Contact Us page
+>>>>>>> FETCH_HEAD

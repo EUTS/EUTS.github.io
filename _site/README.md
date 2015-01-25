@@ -1,35 +1,74 @@
-# Landing Page Jekyll theme
+This is where the Effat University Tech Society website is hosted.
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+If you're new here, read on to find out how you can contribute to the website. 
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+#How to get involved on developing the Website:
 
-```txt
+1- Fork to your repository <br>
+2- Clone to your desktop <br>
+3- Make your changes <br>
+
+Read our [FAQ](http://euts.github.io/FAQ/) for more information on getting started with website developmeing using Github pages, Jekyll, and Bootstrap. <br>
+
+4- Send a pull request
+
+How can you help?
+- Find spelling mistakes or faulty links
+- Answer frequently asked questions
+- Write out blog posts to help others with a problem 
+- Drop us a line on suggestions 
+
+#How to post:
+1- Go to the _post folder <br>
+2- Create a new post <br>
+
+
+![New post file name](/img/posts/newpost.png)
+
+
+
+3 - Name your post following this format: year-month-day-name-of-website <br>
+```
+File name: yyyy-mm-dd-New-Blog-Post
+Example: 2014-11-22-New-Blog-Post
+```
+4- Start the post with:
+```
 ---
-layout: default
-img: ipad.png
-category: Services
-title: The service title
-description: The description of this service
+layout: post
+title:  "Title of your post"
+date:   2014-mm-dd 
+author: Your name
+categories: category of the post
+short: short summary about the post
 ---
 ```
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+<<<<<<< HEAD
+![YAML](/assets/imgs/postformat.png)
+=======
+![YAML](/img/posts/postformat.png)
+>>>>>>> FETCH_HEAD
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+  * For more information about this format,  read about: [YAML](https://en.wikipedia.org/wiki/YAML) <br>
+  * To style your post, read up on [Markdown](http://en.wikipedia.org/wiki/Markdown) <br>
+  * Look at the source code of previous posts <br>
+  * Write out your content <br>
 
-===
+5- Click on commmit changes to save post <br>
+6- Finally, Send pull request to inform us with your post!
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+#Study of the file tree
 
-## Version
-1.0.1
+#TO DO:
+1- ~~add fixed footer~~ <br>
+2- ~~add project description~~ <br>
+3- fill out the content <br>
+4- Write guide to topics mentioned here   
+5- Create graphics for ze website (icons, background etc)<br>
+<<<<<<< HEAD
+6- Make a Contact Us page
+=======
+6- Make a Contact Us page
+>>>>>>> FETCH_HEAD
