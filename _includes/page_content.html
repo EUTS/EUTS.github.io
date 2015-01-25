@@ -2,7 +2,7 @@
 {% for post in site.data.services %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a">
+    <div class="content-section-b">
 
         <div class="container">
 
@@ -28,7 +28,7 @@
     <!-- /.content-section-a -->
     {% else %}
 
-    <div class="content-section-b">
+    <div class="content-section-a">
 
         <div class="container">
 
@@ -90,6 +90,8 @@
 
 </div>
 </section>
+
+
 
 
   {% for project in site.data.projectsdb %}
