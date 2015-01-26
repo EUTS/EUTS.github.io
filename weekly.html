@@ -1,0 +1,43 @@
+---
+layout: default
+title: challenges 
+permalink: /challenges/
+---
+
+{% include intro.html %}
+<!-- challenges Grid Section -->
+
+<section id="challenges">
+<div class="container"> 
+    <div class="row">
+         <div class="col-lg-12 text-center">
+             <h2>Weekly Challenge</h2>
+             <hr class="star-primary">
+             <h3>What is it, and how it works</h3>
+         </div>
+    </div>
+ 
+<div class="row">
+     {% for challenge in site.data.challengesdb %}
+  <div class="col-sm-3 col-md-3 challenges-item">
+    <div class="thumbnail">
+       <div id="logo2">   
+      <img src="/img/challenges/{{challenge.img}}" class="img-responsive"  height="200" width="300">
+  </div>
+      <div class="caption">
+        <h3>{{ challenge.name }}</h3>
+        <p>{{ challenge.description }}</p>
+        <p><a href="{{ challenge.url }}" target="_blank" class="btn btn-default" role="button">Visit &raquo;</a></p>
+      </div>
+    </div>
+  </div>
+          {% endfor %}
+
+</div>
+
+
+</div>
+</section>
+
+
+ 
