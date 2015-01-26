@@ -22,7 +22,9 @@ How can you help?
 1- Go to the _post folder <br>
 2- Create a new post <br>
 
+
 ![New post file name](/img/posts/newpost.png)
+
 
 
 3 - Name your post following this format: year-month-day-name-of-website <br>
