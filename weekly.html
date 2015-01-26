@@ -18,7 +18,8 @@ permalink: /challenges/
     </div>
  
 <div class="row">
-     {% for challenge in site.data.challengesdb %}
+      {% for challenge in site.posts %}
+      {% if challenge.categories contains 'challenges' %}
   <div class="col-sm-3 col-md-3 challenges-item">
     <div class="thumbnail">
        <div id="logo2">   
@@ -31,7 +32,8 @@ permalink: /challenges/
       </div>
     </div>
   </div>
-          {% endfor %}
+  {% endif %}
+           {% endfor %}
 
 </div>
 

@@ -3,7 +3,7 @@ layout: post
 title:  "What is Git"
 date:   2014-11-10 10:09:33
 author: EUTS
-categories: jekyll update
+categories: blog
 short: Introduction to Version Control and Git.
 img: "git.png"
 ---

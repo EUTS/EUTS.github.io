@@ -2,7 +2,7 @@
 layout: post
 title:  "What and How of 'Jekyll'"
 date:   2014-11-11 10:09:33
-categories: jekyll update
+categories: blog
 author: EUTS
 tags: tutorial
 short: Introduction to Jekyll, with links on how to learn it.

@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started with the Basics of PHP"
 date: 2014-12-03 11:19PM
 author: Yumna Aziz
-categories: Web Development Resources
+categories: blog
 short: Some resouces to learn HTML, CSS, Javascript and PHP.
 img: "php.png"
 ---

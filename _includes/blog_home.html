@@ -16,6 +16,8 @@
   <!-- Project One -->
   <div class="container">
     {% for post in site.posts %}
+    {% if post.categories contains 'blog' %}
+
     <div class="content-section-b">
       <div class="row">
         <div class="col-md-3">
@@ -36,6 +38,7 @@
 
       
     </div>  
+      {% endif %}
     {% endfor %}
   </div>
   </div>
