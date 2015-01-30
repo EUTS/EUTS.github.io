@@ -1,17 +1,28 @@
 
 // Validating Empty Field
-function check_empty() {
-if (document.getElementById('fullname').value == "" || document.getElementById('effatemail').value == "") {
-alert("Please enter a name and an effat email to join.");
+function check_empty()
+{
+if (document.getElementById('fullname').value == "" || document.getElementById('effatemail').value == "" || document.getElementById('id').value == ""){
+alert("Please enter a name, an effat email and your student ID to join");
 } 
 else if(!validateEmail())
 {
 	alert("You have entered an incorrect email address");
 	document.getElementById('effatemail').focus();
 }
-else {
-document.getElementById('form').submit();
-alert("Submitted Successfully!");
+else if(!validateId())
+{
+	alert("You have entered an incorrect student ID");
+	document.getElementById('id').focus();
+}
+else if(!validateMemberType(document.forms["form"]["type"]))
+{
+	alert("Do you want to a be a full member or a partial member?");
+}
+else 
+{
+	document.getElementById('form').submit();
+	alert("Submitted Successfully!");
 }
 }
 //Function To Display Popup
@@ -33,3 +44,31 @@ function validateEmail(){
 	else 
 		return false;
 }
+
+function validateId()
+{
+	var id = document.getElementById('id');
+	var expression = /^[sS]+[0-9]/;
+	if(id.value.match(expression))
+	{
+		return true;
+	}
+	else return false;
+}
+
+function validateMemberType(radios)
+{
+	var len = radios.length;
+	var checked = false;
+	for(i = 0; i<len; i++)
+	{
+		if(radios[i].checked) checked = true;
+	}
+
+	if(checked)
+	{
+		return true;
+	}
+	else return false;
+}
+
