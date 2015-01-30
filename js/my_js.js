@@ -18,6 +18,7 @@ else if(!validateId())
 else if(!validateMemberType(document.forms["form"]["type"]))
 {
 	alert("Do you want to a be a full member or a partial member?");
+	document.getElementById('fullmember').focus();
 }
 else 
 {
@@ -36,7 +37,7 @@ document.getElementById('abc').style.display = "none";
 
 function validateEmail(){
 	var email = document.getElementById('effatemail');
-	var expression = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+	var expression = /^\w+([\.-]?\w+)*@[effatuniversity]*(\.\w{2,3})+$/;
 	if(email.value.match(expression))
 	{
 		return true;
