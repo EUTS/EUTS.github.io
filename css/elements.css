@@ -11,13 +11,7 @@
     box-shadow: 0 0 10px #9ecaed;
 }
 
-.radioclass{
-	color:black;
-	padding:10%;
-}
-
-.radioclass:focus {
-	outline:none;
-	border-color:#9ecaed;
-	box-shadow: 0 0 2px #9ecaed;
+.memberType{
+	text-align:left;
+	color: black;
 }

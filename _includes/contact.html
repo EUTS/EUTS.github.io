@@ -40,7 +40,7 @@
                             <h2>Join Us!</h2>
                             <hr class="star-primary">
 
-                             <form role="form" action="http://formspree.io/yaziz@effat.edu.sa" id="form" method="post">
+                             <form role="form" action="http://formspree.io/yaziz@effat.edu.sa" id="form" name="form" method="post">
 
                             <div class="form-group">
                                 <label for="fullname" class="control-label">Enter your full name, please:</label><br>
@@ -66,7 +66,11 @@
                             <div class="form-group" id="membership">
                                 <input class="" type="radio" name="type" value="Full Member" id="fullmember"> Full Member
                                 <input class="" type="radio" name="type" value="Partial Member" id="partialmember"> Partial Member
+                                <div>
+                                <a data-toggle="modal" data-target="#myModal2">What's the difference?</a>
+                                </div>
                             </div>
+
                             </form>
 
 
@@ -79,5 +83,47 @@
             </div>
         </div>
     </div>
- 
+
+
+
+
+    <div class="projects-modal modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Full Member</h2>
+                            <hr class="star-primary">
+                            <ol class="memberType">
+                                <li>Can organise events, workshops and meetings</li>
+                                <li>Can contact speakers</li>
+                                <li>Can be a leader for a group (ex. game development group or mobile development group)</li>
+                                <li>Can run for office positions</li>
+                                <li>Receives 8 value points for being a club member + value points for participating in the partial member activities (listed below)</li>
+                            </ol>
+
+                            <h2>Partial Member</h2>
+                             <hr class="star-primary">
+                             <ol class="memberType">
+                                <li>Can participate in challenges and projects</li>
+                                <li>Can write and post blog posts to the website</li>
+                                <li>Can contribute to the website through open source</li>
+                                <li>Can give suggestions for events or workshops</li>
+                                <li>Can attend workshops</li>
+                                <li>Receives points depending on the level of involvement</li>
+                            </ol>
+
+ </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
         
