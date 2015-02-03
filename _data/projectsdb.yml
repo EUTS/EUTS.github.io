@@ -12,6 +12,11 @@
   author: Dr. Wadee Halabi
   index: 3
   url: //github.com/EUTS/Pre-RegistrationWebsite
-  description: Cyper advisor for students
+  description: "Cyper advisor for students, that would do the following:
+  1. Check the four year plan and the student transcript
+  2. Recommend a schedule for the next semester
+  3. Assume all the courses are available
+  4. Keep track of how many students are registered in each course
+  5. Keep track of how many sections there are for each course"
 
 
