@@ -16,6 +16,7 @@ hr.star-primary {
 }
 
 hr.star-light:after,
+hr.star-dark:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -44,6 +45,13 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+hr.star-dark {
+border-color: #2c3e50;
+}
+hr.star-dark:after {
+color: #2c3e50;
+background-color: #f7f7f7;
+}
 .img-centered {
     margin: 0 auto;
 }

@@ -7,7 +7,7 @@ categories: blog
 short: Some resouces to learn HTML, CSS, Javascript and PHP.
 img: "php.png"
 ---
-<hr>
+<br>
 
 Before you get started with PHP, you should probably have a good understanding of HTML, CSS and some Javascript. 
 While looking for web development stuff online, I found some interesting resources to learn these three 
@@ -33,3 +33,4 @@ for “Learning PHP step by step”: a post written by Kristain Guevara. His pos
 [here](http://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating), takes you through creating a PHP website from the very beginning. It includes, along with other things, how to set up your server, how to set up a login interface and how to create a database. 
 
 I guess that’s it for now. If you find any other resources that you’d like to share, you’re welcome to edit this post, or make your own. 
+ 
