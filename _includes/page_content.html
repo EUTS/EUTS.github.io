@@ -55,3 +55,86 @@
     {% endif %}
 {% endfor %}
 </div>
+
+
+<!-- projects Grid Section -->
+
+<section id="projects">
+<div class="container"> 
+    <div class="row">
+         <div class="col-lg-12 text-center">
+             <h2>Projects</h2>
+             <hr class="star-primary">
+             <h3>Have an idea for a project? Suggest your own.</h3>
+             <p class="lead">One of the purposes of this society is to encourage students to become involved in open sourcing and to develop their team working skills. Below are a list of projects that you can contribute to: </p>
+         </div>
+    </div>
+ 
+
+
+
+<div class="row">
+     {% for project in site.data.projectsdb %}
+  <div class="col-sm-6 col-md-4 projects-item">
+    <div class="thumbnail">
+          
+      <img src="/img/projects/temp.png" class="img-responsive" >
+      <div class="caption">
+        <h3>{{ project.name }}</h3>
+        <p>{{ project.description }}</p>
+        <p><a href="#{{ project.index }}" data-toggle="modal" class="btn btn-default" role="button">View Details &raquo;</a></p>
+      </div>
+    </div>
+  </div>
+          {% endfor %}
+
+</div>
+
+
+</div>
+</section>
+
+
+
+
+  {% for project in site.data.projectsdb %}
+
+ 
+<!-- projects Modals -->
+    <div class="projects-modal modal fade" id="{{ project.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ project.name }}</h2>
+                            <hr class="star-primary">
+                             <p>{{ project.description }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Supervisor:
+                                    <strong><a href="{{ project.url }}">{{ project.author }}</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong>April 2014
+                                    </strong>
+                                </li>
+                                <li><i class="fa fa-globe"></i>
+                                    <strong><a href="{{ project.url }}">: Code</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   {% endfor %}
