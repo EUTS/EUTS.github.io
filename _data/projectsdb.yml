@@ -3,14 +3,9 @@
   index: 1
   url: //github.com/EUTS/EUtS.github.io
   description: This is where the code for the website is hosted. We chose to make it fully accesible in order to give others the opportunity to add further improvements. 
-- name: Packet Analyzer 
-  author: Superviser Name
-  index: 2
-  url: //github.com/EUTS/packet-sniffer
-  description: An implementation of a packet analyzer that can be improved on. A packet analyzer (sniffer) is a program that intercepts the traffic passing through a network interface. In this project, we are going to implement our own packet sniffer using the libpcap library and to validate our program on actual network traffic.
 - name: Pre-RegistrationWebsite
   author: Dr. Wadee Halabi
-  index: 3
+  index: 2
   url: //github.com/EUTS/Pre-RegistrationWebsite
   description: "Cyper advisor for students, that will recommend a schedule for students for the new semester based on their transcript and plan.
   It will also help keep track of how many students are registered, and how many sections there are for each course"
