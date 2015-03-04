@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons Learned from today's event: BaharatApp & how it's connected with EUTS"
+title:  "Lessons Learned from Today's event: BaharatApp & How They're Connected With EUTS"
 date:   2015-03-04 8:55:33
 categories: blog
 author: Yumna Aziz
