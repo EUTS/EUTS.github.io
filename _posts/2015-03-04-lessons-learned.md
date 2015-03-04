@@ -19,7 +19,7 @@ Therefore, I thought I would take this opportunity to connect some of these less
 <br>
 
 
-<B>1) Explore:</B> we want to create an environment which allows you to explore different areas of interest - where you're not constrained by the courses you're taking, or the major you're in. <br>
+<B>1) Explore:</B> we want to create an environment which allows you to explore different areas of interest - where you're not constricted by the courses you're taking, or the major you're in. <br>
 
 
 <B>2) Self-Learning: </B> self learning is a skill, and as a club and society, we want to encourage students to develop the ability to self learn. One way we're attempting to do this is by releasing weekly challenges. These challenges expose you to different ideas and concepts and encourage you to "google" for answers. <br>
@@ -38,7 +38,7 @@ Therefore, I thought I would take this opportunity to connect some of these less
 
 And lastly:
 
- <blockquote>"The more you give to your education, the more your education will give to you." </blockquote>
+ <blockquote>"The more you give to your education, the more your education will give to you. - Yumna Aziz Ansari" </blockquote> 
 
 And yes, I just made that quote up. :)
 
