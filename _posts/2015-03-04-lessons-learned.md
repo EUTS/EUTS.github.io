@@ -25,7 +25,7 @@ Therefore, I thought I would take this opportunity to connect some of these less
 <B>2) Self-Learning: </B> self learning is a skill, and as a club and society, we want to encourage students to develop the ability to self learn. One way we're attempting to do this is by releasing weekly challenges. These challenges expose you to different ideas and concepts and encourage you to "google" for answers. <br>
 
 
-<B>3) Ask for Help:</B> we want to create an environment which encourages you to ask questions. Confused about a challenge, send us a message! It's as easy as that. Sometimes working together on a problem helps solve that problem ten times faster!
+<B>3) Ask for Help:</B> we want to create an environment which encourages you to ask questions. Confused about a challenge or having trouble with your program, send us a message! It's as easy as that. We can't guarantee we'll know the answer, but sometimes working together on a problem helps solve that problem ten times faster!
 <br>
 
 <B>4) It's not all about the programming:</B> really it isn't. Developing an app, a website, or a game doesn't just consist of developers and engineers, it consists of artists, marketers, researchers, scientists, story tellers, writers and musicians. You need a team of diverse skills sets. Therefore, this society isn't just for CS, IS, and ECE students. It's for everyone.
