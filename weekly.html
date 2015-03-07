@@ -20,6 +20,7 @@ permalink: /challenges/
             <br>
             <div style="text-align:center">
           <a data-toggle="modal" data-target="#myModal2" class="btn btn-default" role="button">Rules</a>
+          <a data-toggle="modal" data-target="#myModal" class="btn btn-defualt" role="button">Solutions</a>
         </div>
               <h3>So what are you waiting for? Get those competitive skills to work and attempt the first challenge below: </h3>
 
@@ -85,6 +86,47 @@ permalink: /challenges/
  
 
 </div>
+
+<div class="projects-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Solutions Archive</h2>
+                            <hr class="star-primary">
+                      
+  <div >
+             <div class="row">
+      {% for solution in site.posts %}
+      {% if solution.categories contains 'solution' %}
+    <div style="text-align:center">
+        <h3><a href="{{solution.url }}" class="btn btn-default" role="button">{{solution.title }}</a></h3>
+  </div>
+  {% endif %}
+           {% endfor %}
+
+</div>
+          </div>
+
+ </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+
+</div>
+
+
+
 </section>
 
 
