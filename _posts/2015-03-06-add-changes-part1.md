@@ -6,7 +6,7 @@ categories: blog
 author: EUTS
 tags: tutorial
 short: A youtube video showing you how you can make changes to the EUTS website. (Part 1)
-img: "home-screen.png"
+img: "logo2.png"
 ---
 
 <div style="text-align:center">
