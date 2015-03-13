@@ -12,6 +12,19 @@ description: > # "Write an awesome description for your new site here.
   description."
 
 
+# Team names, titles and social links
+people:
+- name: Yumna Aziz
+  pic: 2
+  position: Leader
+  social:
+    - title: facebook
+      url: https://www.facebook.com/yumnaansari
+    - title: github
+      url: https://github.com/doubleoseven
+    - title: linkedin
+      url: 
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
