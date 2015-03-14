@@ -7,8 +7,7 @@ permalink: /contacts/
 {% include intro.html %}
 
 
-
-<!-- Team Section 
+<!-- Team Section -->
     <section id="team" class="content-section-a">
         <div class="container">
             <div class="row">
@@ -21,7 +20,7 @@ permalink: /contacts/
                 {% for member in site.data.teamdb %}
                 <div class="col-sm-3">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.png" class="img-responsive"  >
+                        <img src="/img/team/{{ member.pic }}.png" class="img-responsive img-circle"  >
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
@@ -37,7 +36,7 @@ permalink: /contacts/
         </div> 
 
     </section>
--->
+
 
 
 <!-- Contacts Grid Section -->
