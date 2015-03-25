@@ -27,13 +27,11 @@
     - title: linkedin
       url: https://www.linkedin.com/in/sondosazzouz 
 - name: Aisha Kwairanga
-  pic:  
+  pic:  #
   position: Member
   social:
     - title: github
       url: https://github.com/faridakwairanga
-            
-       url: #
 - name: Aisha Farsi
   pic:  4
   position: Member
