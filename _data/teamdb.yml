@@ -41,7 +41,7 @@
 - name: Aisha Kwairanga
   pic:  5
   position: Member
-    social:
+  social:
     - title: github
       url: https://github.com/faridakwairanga
 - name: Alyah Alfageh
@@ -49,6 +49,6 @@
   position: Member
   social:
     - title: github
-    url:https://github.com/aalyahf
+      url: https://github.com/aalyahf
     - title: linkedin
-    url:https://sa.linkedin.com/pub/alyah-alfageh/98/5a4/620
+      url: https://sa.linkedin.com/pub/alyah-alfageh/98/5a4/620
