@@ -18,17 +18,9 @@
       url: https://github.com/haneensa
     - title: linkedin
       url: https://www.linkedin.com/in/haneenmohammed
-- name: Sondos Azzouz
-  pic:  3
-  position: Member
-  social:
-    - title: github
-      url: https://github.com/SondosAzz
-    - title: linkedin
-      url: https://www.linkedin.com/in/sondosazzouz 
 - name: Aisha Farsi
-  pic:  4
-  position: Member
+  pic:  3
+  position: Secretary 
   social:
     - title: github
       url: https://github.com/AishaFarsi
@@ -38,27 +30,34 @@
       url: https://www.facebook.com/closeted.panda.1
     - title: youtube
       url: https://www.youtube.com/user/soooledaaad
-- name: Aisha Kwairanga
-  pic:  5
+- name: Sondos Azzouz
+  pic:  4
   position: Member
   social:
     - title: github
-      url: https://github.com/faridakwairanga
+      url: https://github.com/SondosAzz
+    - title: linkedin
+      url: https://www.linkedin.com/in/sondosazzouz 
 - name: Alyah Alfageh
-  pic:  6
-  position: Member
+  pic:  5
+  position: Blog Manager
   social:
     - title: github
       url: https://github.com/aalyahf
     - title: linkedin
       url: https://sa.linkedin.com/pub/alyah-alfageh/98/5a4/620
 - name: Sarah alqabbaa
-  pic:  7
-  position: Member
+  pic:  6
+  position: Event Manager
   social:
     - title: github
       url: https://github.com/saalqabbaa
 - name: Sarah Alolyan
+  pic:  7
+  position: Event Manager
+- name: Aisha Kwairanga
   pic:  8
   position: Member
-  
+  social:
+    - title: github
+      url: https://github.com/faridakwairanga
