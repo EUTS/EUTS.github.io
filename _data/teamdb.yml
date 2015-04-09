@@ -1,6 +1,6 @@
 - name: Yumna Aziz
   pic: 1
-  position: Leader and Co-founder
+  position: Leader
   social:
     - title: github
       url: https://github.com/doubleoseven
@@ -10,7 +10,7 @@
       url: sa.linkedin.com/in/YumnaAzizAnsari
 - name: Haneen Mohammed
   pic:  2
-  position: Vice Leader and Founder
+  position: Vice Leader
   social:
     - title: facebook
       url: https://www.facebook.com/public/Haneen-Ashor
